@@ -4,7 +4,7 @@
 RootModule = 'VSCETabCompletion.psm1'
 
 # Version number of this module.
-ModuleVersion = '1.0'
+ModuleVersion = '1.1'
 
 # ID used to uniquely identify this module
 GUID = '2f9e7abe-f71d-478e-9b27-cca7aff01c5c'
@@ -19,7 +19,7 @@ CompanyName = 'Doug Finke'
 Copyright = 'c 2015 All rights reserved.'
 
 # Description of the functionality provided by this module
-Description = 'Enables tab completion for npm commands'
+Description = 'Enables tab completion for vsce commands'
 
 # Minimum version of the Windows PowerShell engine required by this module
 # PowerShellVersion = ''
